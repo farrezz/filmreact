@@ -1,0 +1,25 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "reviews": [
+        {
+          "id": 1,
+          "rating": 9,
+          "review": "A mind-bending thriller with stunning visuals and a complex narrative."
+        },
+        {
+          "id": 2,
+          "rating": 8,
+          "review": "Inception offers a dazzling blend of action and intricate storytelling."
+        },
+        {
+          "id": 3,
+          "rating": 10,
+          "review": "Nolan's masterpiece that challenges the boundaries of imagination."
+        }
+      ]
+    }
+  ]
+}
